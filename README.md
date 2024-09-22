@@ -1,8 +1,10 @@
 simple .exe for windows only, 
-batch-process PDFs and strips them to plain text. 
+
+batch-process PDFs or Word Documents, and strips them to plain text. 
 Allows you to quickly add multiple files and folders to build a "source list" which is then used to iterate through and build a "File list" to convert to plain text. 
 Searches sub-folders recursively. 
-Currenlty only supports PDF's and .TXT 
+
+Currenlty only supports PDF's .DOCX and .TXT 
 
 the purpose of this application is to automate the process of preparing documents for vector embeddings.
 
