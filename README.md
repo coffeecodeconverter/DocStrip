@@ -11,32 +11,40 @@ Written in VB.NET using .net framework 4.5. and PDFium (nuget package)
 
 main App:
 
-![image](https://github.com/user-attachments/assets/7c150908-30f6-42e7-9321-1acd20ad4a1f)
+![image](https://github.com/user-attachments/assets/3884da9a-e923-495e-88c9-8948d4d755e6)
+
 
 manage your sources, by individual files or by directories on mass 
 
-![image](https://github.com/user-attachments/assets/f132fda8-4324-4c23-9dfd-76e13fc8650a)
+![image](https://github.com/user-attachments/assets/d7289ecb-d01d-498b-8317-4a9009bd89f0)
+
 
 add by directory 
 
-![image](https://github.com/user-attachments/assets/558dc861-fb4f-42f9-b2fe-72011280ade5)
+![image](https://github.com/user-attachments/assets/d96d4472-9805-4771-b307-2f3924bcd41a)
+
 
 add multiple directories quickly 
 
-![image](https://github.com/user-attachments/assets/e1c74424-662d-418e-8d20-a01aff4fe338)
+![image](https://github.com/user-attachments/assets/9e83647b-c31e-43bf-b958-8ab2a48cb8d7)
+
+
 
 all valid files (PDF / .txt so far) in all sub-folders recursively will be added.  
 
-![image](https://github.com/user-attachments/assets/51f5cd67-2ef8-461e-8beb-292e2966c1d5)
+![image](https://github.com/user-attachments/assets/1e230aad-1d83-4ad9-bbfd-7c3f60326f51)
+
 
 customize your options 
 
-![image](https://github.com/user-attachments/assets/ad8b305e-f807-4301-b604-3b21422341cb)
+![image](https://github.com/user-attachments/assets/7f4034c0-e9bc-4c9f-ab85-c3d3576341af)
+
 
 configure your outputs
 you can write the plain text to the same directory as each origin file, or collated all of them to a new custom directory. 
 you can also keep the original file name, choose a prefix, suffix, or an entirely custom name. 
 if splitting by pages, it automatically names each new page file so nothing is overwritten. 
 
-![image](https://github.com/user-attachments/assets/b0682200-79cc-4499-87d0-38f074b0092d)
+![image](https://github.com/user-attachments/assets/0722bbd4-49ae-4ece-a872-26cfae19a15b)
+
 
