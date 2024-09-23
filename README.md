@@ -1,3 +1,13 @@
+NOTE
+if you download the source files, its missing the packages as it made the upload too big. 
+you can get all the packages from nuget:
+- Newtonsoft.Json.13.0.3
+- Open-XML-SDK.2.9.1
+- PdfiumViewer.2.13.0.0
+- PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256
+- PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256
+
+ABOUT:
 simple .exe for windows only, 
 
 batch-process PDFs or Word Documents, and strips them to plain text. 
